@@ -1,8 +1,8 @@
 {
-  "name": "nuxtjs",
+  "name": "nucreativa-com",
   "version": "1.0.0",
-  "description": "My astonishing Nuxt.js project",
-  "author": "msweeneydev",
+  "description": "Source code of Nucreativa.com",
+  "author": "Ary Wibowo",
   "private": true,
   "scripts": {
     "dev": "nuxt",
